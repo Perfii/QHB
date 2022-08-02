@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Andreadakis"
+  given-names: "Faidon"
+- family-names: "Dallas"
+  given-names: "Emmanuel"
+title: "QHB"
+version: 1.0.0
+date-released: 2022-08-02
+url: "https://github.com/Perfii/QHB"
